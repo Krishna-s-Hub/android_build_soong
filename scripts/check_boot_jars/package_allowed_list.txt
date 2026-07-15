@@ -229,6 +229,9 @@ com\.nothing\..*
 com\.nvidia
 com\.nvidia\..*
 
+# OnePlus Framework
+com\.color\.inner\.view\.*
+
 # OPLUS adds
 com\.color\.inner\..*
 com\.oppo\..*
